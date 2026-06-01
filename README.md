@@ -1,224 +1,125 @@
-<h1 align="center">Hi 👋, I'm Saket Jain</h1>
+<div align="center">
 
-<h3 align="center">Information Technology Student | Flutter Developer | Java Programmer | AI Enthusiast</h3>
+# Saket Jain
 
+### Information Technology Student | Flutter Developer | Java Programmer | AI Enthusiast
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Building+Real-World+Applications;Flutter+Developer;Java+Programmer;Exploring+Artificial+Intelligence;Continuous+Learner)](https://git.io/typing-svg)
 
-<p align="center">
+</div>
 
-&#x20; <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&duration=3000\&pause=1000\&center=true\&vCenter=true\&width=600\&lines=Flutter+Developer;Java+Programmer;AI+Enthusiast;Open+Source+Learner;Building+Useful+Projects" alt="Typing SVG" />
+---
 
+## About Me
+
+I am an Information Technology student with a strong interest in software development, mobile applications, and artificial intelligence. I enjoy building practical solutions that solve real-world problems and continuously expanding my technical expertise.
+
+### Current Focus
+
+- Data Structures & Algorithms
+- Flutter Application Development
+- Spring Boot
+- Software Engineering
+- Artificial Intelligence Applications
+
+---
+
+## Technical Skills
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,dart,python,javascript" />
 </p>
 
+### Frameworks & Technologies
 
-
-\---
-
-
-
-\## 🚀 About Me
-
-
-
-🎓 Bachelor's Student in Information Technology
-
-
-
-💻 Passionate about Mobile App Development, AI, and Software Engineering
-
-
-
-🌱 Currently learning:
-
-\- Data Structures \& Algorithms
-
-\- System Design
-
-\- Spring Boot
-
-\- AI Applications
-
-
-
-⚡ Building projects that solve real-world problems
-
-
-
-\---
-
-
-
-\## 🛠️ Tech Stack
-
-
-
-\### Languages
-
-!\[Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-
-!\[Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-
-!\[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-
-
-\### Mobile Development
-
-!\[Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-
-
-
-\### Backend \& Database
-
-!\[Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge\&logo=firebase\&logoColor=black)
-
-!\[MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-
-
-\### Tools
-
-!\[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-!\[GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-!\[VS Code](https://img.shields.io/badge/VS\_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
-
-
-\---
-
-
-
-\## 🌟 Featured Projects
-
-
-
-\### 📱 HabitHero
-
-A habit-tracking application built with Flutter and Firebase.
-
-
-
-\- User Authentication
-
-\- Daily Challenges
-
-\- Rewards System
-
-\- Progress Tracking
-
-
-
-\### 🤖 Romi Personalised Assistant
-
-AI-powered assistant focused on productivity and personalization.
-
-
-
-\- Intelligent Responses
-
-\- Personal Assistance Features
-
-\- Modern UI
-
-
-
-\### 💬 Chat Application
-
-Real-time messaging application.
-
-
-
-\- Authentication
-
-\- Real-time Communication
-
-\- Responsive Design
-
-
-
-\### 🌐 Portfolio Website
-
-Personal portfolio showcasing projects, skills, and achievements.
-
-
-
-\---
-
-
-
-\## 📊 GitHub Stats
-
-
-
-<p align="center">
-
-&#x20; <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saket-01-bit\&show\_icons=true\&theme=tokyonight" />
-
-&#x20; <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket-01-bit\&layout=compact\&theme=tokyonight" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,firebase,mysql" />
 </p>
 
+### Tools
 
-
-\---
-
-
-
-\## 🔥 GitHub Streak
-
-
-
-<p align="center">
-
-&#x20; <img src="https://streak-stats.demolab.com?user=Saket-01-bit\&theme=tokyonight" />
-
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
 </p>
 
+---
 
+## Featured Projects
 
-\---
+### HabitHero
+A Flutter and Firebase-based habit tracking platform designed to help users build positive habits through challenges, rewards, and progress monitoring.
 
+**Technologies:** Flutter, Firebase, Dart
 
+---
 
-\## 🏆 Achievements
+### Romi Personalised Assistant
+An AI-powered personal assistant focused on productivity, personalization, and intelligent interactions.
 
+**Technologies:** AI APIs, Flutter, Firebase
 
+---
 
-\- 📚 Information Technology Student
+### Chat Application
+A real-time messaging application featuring authentication and instant communication capabilities.
 
-\- 🚀 Building Real-World Projects
+**Technologies:** Flutter, Firebase
 
-\- 💡 Passionate About Problem Solving
+---
 
-\- 🌱 Continuous Learner
+### Portfolio Website
+A personal portfolio showcasing projects, technical skills, and professional achievements.
 
+**Technologies:** HTML, CSS, JavaScript
 
+---
 
-\---
+## GitHub Statistics
 
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saket-01-bit&show_icons=true&theme=transparent&hide_border=true"/>
 
-\## 📫 Connect With Me
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket-01-bit&layout=compact&theme=transparent&hide_border=true"/>
 
+</div>
 
+---
 
-\- GitHub: https://github.com/Saket-01-bit
+## Contribution Activity
 
-\- LinkedIn: Add Your LinkedIn URL Here
+<div align="center">
 
-\- Email: Add Your Email Here
+<img src="https://streak-stats.demolab.com?user=Saket-01-bit&theme=transparent&hide_border=true"/>
 
+</div>
 
+---
 
-\---
+## Objectives for 2026
 
+- Strengthen Data Structures & Algorithms skills
+- Build scalable full-stack applications
+- Contribute to open-source projects
+- Explore advanced AI and machine learning concepts
+- Secure a software engineering role
 
+---
 
-<p align="center">
+## Connect
 
-&#x20; <b>"Code. Learn. Build. Repeat."</b>
+GitHub: https://github.com/Saket-01-bit
 
-</p>
+LinkedIn: Your LinkedIn URL
 
+Email: Your Email Address
+
+---
+
+<div align="center">
+
+*"Building software that is useful, scalable, and impactful."*
+
+</div>
