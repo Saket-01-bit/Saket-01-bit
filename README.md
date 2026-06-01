@@ -75,18 +75,6 @@ A personal portfolio showcasing projects, technical skills, and professional ach
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Saket-01-bit&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket-01-bit&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
