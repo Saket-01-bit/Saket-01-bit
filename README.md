@@ -75,16 +75,6 @@ A personal portfolio showcasing projects, technical skills, and professional ach
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Saket-01-bit&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
 ## Objectives for 2026
 
 - Strengthen Data Structures & Algorithms skills
