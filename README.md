@@ -18,7 +18,6 @@ I am an Information Technology student with a strong interest in software develo
 
 - Data Structures & Algorithms
 - Flutter Application Development
-- Spring Boot
 - Software Engineering
 - Artificial Intelligence Applications
 
@@ -29,7 +28,7 @@ I am an Information Technology student with a strong interest in software develo
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,dart,python,javascript" />
+<img src="https://skillicons.dev/icons?i=java,dart" />
 </p>
 
 ### Frameworks & Technologies
@@ -41,7 +40,7 @@ I am an Information Technology student with a strong interest in software develo
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=github,vscode,androidstudio" />
 </p>
 
 ---
@@ -72,7 +71,7 @@ A real-time messaging application featuring authentication and instant communica
 ### Portfolio Website
 A personal portfolio showcasing projects, technical skills, and professional achievements.
 
-**Technologies:** HTML, CSS, JavaScript
+**Technologies:** Flutter, Dart
 
 ---
 
@@ -112,9 +111,9 @@ A personal portfolio showcasing projects, technical skills, and professional ach
 
 GitHub: https://github.com/Saket-01-bit
 
-LinkedIn: Your LinkedIn URL
+LinkedIn:https://linkedin.com/in/saket-jain-cgc
 
-Email: Your Email Address
+Email: saketjainmm@gmail.com
 
 ---
 
