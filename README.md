@@ -40,7 +40,7 @@ I am an Information Technology student with a strong interest in software develo
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=github,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=github,vscode,androidstudio,antigravity" />
 </p>
 
 ---
