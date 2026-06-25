@@ -28,7 +28,7 @@ I am an Information Technology student with a strong interest in software develo
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,dart" />
+<img src="https://skillicons.dev/icons?i=java,dart,html" />
 </p>
 
 ### Frameworks & Technologies
