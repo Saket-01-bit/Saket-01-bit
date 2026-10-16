@@ -160,20 +160,6 @@ August 2025 – July 2026
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Saket-01-bit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saket-01-bit&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-<img src="https://streak-stats.demolab.com?user=Saket-01-bit&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-
-</div>
-
----
-
 ## Connect With Me
 
 - **GitHub:** [Saket-01-bit](https://github.com/Saket-01-bit)
